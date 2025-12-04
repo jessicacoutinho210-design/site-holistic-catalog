@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 sections:
   - type: FeaturedProjectsSection
-    subtitle: ESCOLHA SEU PACOTE
+    subtitle: ＥＳＣＯＬＨＡ　ＳＥＵ　ＰＡＣＯＴＥ
     actions:
       - type: Link
         label: See all projects
