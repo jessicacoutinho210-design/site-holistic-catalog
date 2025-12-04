@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: "\U0001D5AFACK DE \U0001D5B3EMPLATES | \U0001D5AFOSTS MÍSTICOS |TERAPEUTA HOLÍSTICO"
+title: ' POSTS MÍSTICOS |TERAPEUTA HOLÍSTICO'
 colors: colors-a
 date: '2025-12-15'
 client: Awesome client
