@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/CAPA-mistisco.png
+  url: /images/capa-template-mistico-esoterico.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
