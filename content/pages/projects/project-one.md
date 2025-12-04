@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Ｐｏｓｔｓ　Ｍíｓｔｉｃｏｓ　｜　Ｔｅａｒｐｅｕｔａ　Ｈｏｌíｓｔｉｃｏ
+title: Posts Místicos| Terapeuta Holístico
 colors: colors-a
 date: '2025-12-15'
 client: Awesome client
