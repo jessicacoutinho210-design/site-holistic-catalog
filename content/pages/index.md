@@ -119,4 +119,5 @@ sections:
         flexDirection: row
         textAlign: left
 socialImage: /images/CAPA-mistisco.png
+addTitleSuffix: true
 ---
